@@ -3,6 +3,11 @@ Yeni Başlayanlar için Hazır HTML Şablonu
 
 <h4>Yeni Başlayanlar için Hazır HTML Şablonu | ZeddSoftware</h4>
 
+
+![GitHub All Releases](https://img.shields.io/badge/indirme-560-green.svg)
+
+
+
 <h5>İçerdiği Teknolojiler</h5>
 
 <h6>Stiller:</h6>
